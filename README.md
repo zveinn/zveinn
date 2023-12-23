@@ -17,7 +17,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=zveinn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 Pay pal link
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/keybindgaming) 
+## 💰 Github sponsor Link 
+You can buy code reviews / tutoring sessions at this link
+[Click here](https://github.com/sponsors/zveinn)
+https://img.shields.io/github/sponsors/zveinn
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
